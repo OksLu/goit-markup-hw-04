@@ -189,6 +189,7 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 30px;
+  margin-bottom: 30px;
 }
 .features-icons .icon {
   border-radius: 4px;
@@ -322,14 +323,11 @@ img {
   justify-content: space-between;
   cursor: pointer;
 }
-.clients-list .item {
-  color: #afb1b8;
-  border: 1px solid #afb1b8;
-  border-radius: 4px;
-}
 .clients-list .link {
   display: block;
   color: #afb1b8;
+  border: 1px solid #afb1b8;
+  border-radius: 4px;
 }
 .clients-icon {
   fill: currentColor;
